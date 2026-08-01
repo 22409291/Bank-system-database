@@ -20,7 +20,7 @@ INSERT INTO employees (branch_id, First_Name, Last_Name, role, hire_date, phone)
 (5, 'Angela', 'Martin', 'Accountant', '2023-05-20', '555-5555');
 
 
-INSERT INTO accounts (Customer_ID, Balance, Account_Statues, Account_Type, Currency) VALUES
+INSERT INTO accounts (Customer_ID, Balance, Account_Status, Account_Type, Currency) VALUES
 (1, 15000, 'Active', 'Checking', 'USD'),
 (2, 25000, 'Active', 'Savings', 'GBP'),
 (3, 5000, 'Inactive', 'Checking', 'AUD'),
