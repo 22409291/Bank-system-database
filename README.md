@@ -33,7 +33,7 @@ This project implements a Bank System Database using Supabase (cloud-based Postg
 
 ### ER Diagram
 
-![ER Diagram](ERDiagram.jpeg)
+![ER Diagram](ERDiagram.png)
 
 ### Tables
 
